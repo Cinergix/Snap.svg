@@ -1,0 +1,23 @@
+{
+  "name": "@creately/snapsvg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node .npm_scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinergix/snapsvg.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cinergix/snapsvg/issues"
+  },
+  "homepage": "https://github.com/cinergix/snapsvg#readme",
+  "devDependencies": {
+    "shelljs": "^0.7.8",
+    "snapsvg": "github:adobe-webplatform/snap.svg#dev"
+  }
+}
