@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cinergix/snapsvg#readme",
   "devDependencies": {
+    "@types/snapsvg": "^0.4.29",
     "shelljs": "^0.7.8",
     "snapsvg": "github:adobe-webplatform/snap.svg#dev"
   }
