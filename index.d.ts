@@ -2,7 +2,7 @@
 // Project: https://github.com/adobe-webplatform/Snap.svg
 // Definitions by: Lars Klein <https://github.com/lhk>, Mattanja Kern <https://github.com/mattanja>, Andrey Kurdyumov <https://github.com/kant2002>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-/// <reference types="mina" />
+/// <reference path="./mina.d.ts" />
 
 export = Snap;
 export as namespace Snap;
